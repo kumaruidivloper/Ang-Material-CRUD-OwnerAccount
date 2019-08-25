@@ -1,0 +1,27 @@
+{
+  "owner": [
+    {
+      "name": "Kumar",
+      "dateOfBirth": "1983-05-31T18:30:00.000Z",
+      "address": "Channnasandra",
+      "id": 1
+    }
+  ],
+  "account": [
+    {
+      "id": "1",
+      "dateCreated": "2019-08-26T18:30:00.000Z",
+      "accountType": "owner",
+      "ownerId?": "1"
+    }
+  ],
+
+  "OwnerForCreation": [
+      {
+        "name": "Kumar",
+        "dateOfBirth": "1983-05-31T18:30:00.000Z",
+        "address": "Channnasandra"
+      }
+  ]
+
+  }
